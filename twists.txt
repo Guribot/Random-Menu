@@ -1,0 +1,57 @@
+with Avocado
+Smoothie
+Sandwich
+Soup
+with Beans
+with Rice
+with Side Salad
+Combo
+Kebab
+Sushi
+Kimbap
+Musubi
+Fillet
+a la Mode
+on Ice
+on a bed of Romaine Lettuce
+Juice
+Salad
+Bowl
+Martini
+in a Mason Jar
+with Fries
+without Fries
+in a Box
+Stir Fry
+Fried Rice
+Buns
+on a Bagel
+Pizza
+Flatbread
+Milkshake
+and a Shot of Jameson
+Dumplings
+To Go
+on a Sesame Seed Bun
+Loaf
+con Salsa Verde
+du Jour
+on Toast
+in a Bread Bowl
+in a Mug
+a la Edgar
+with Salt and Pepper
+and Guac
+Bites
+IPA
+with Mayo
+with Cheese
+with Sprinkles
+with Chips
+Sashimi
+Broth
+Reduction
+Pasta
+Fettuccine
+Alfredo
+in Cream Sauce
