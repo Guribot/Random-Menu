@@ -1,0 +1,56 @@
+Hot
+Cold
+Room-Temperature
+Deconstructed
+Asian Fusion
+Thai
+French
+Korean
+Mexican
+Japanese
+Malaysian
+New York-Style
+Chicago-Style
+Philadelphia-Style
+Barbecue
+Marinated
+Portuguese
+Upside-Down
+Seared
+Deep-Fried
+Tempura
+Frozen
+Organic
+Imported
+Well-Done
+Rare
+Raw
+Miniature
+Huge
+Chicken-Fried
+Cold-Pressed
+Creme de la
+Inside-Out
+Traditional
+Reheated
+Braised
+Soft
+Hard
+Ancient
+Original
+Plain
+Probiotic
+Spicy
+Vegan
+Gluten-Free
+Paleo
+Vegetarian
+Keto
+Cheesy
+Frosted
+Glazed
+Crispy
+Al Dente
+Ground
+Minced
+Creamy
