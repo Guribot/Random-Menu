@@ -1,0 +1,66 @@
+Tuna
+Tilapia
+Salmon
+Shrimp
+Lobster
+Steak
+Chicken
+Pork
+Bacon
+Lamb
+Waffles
+Pancakes
+Hamburger
+Cheeseburger
+Hot Dog
+Sausage
+Schnitzel
+Curry
+Ramen
+Noodles
+Pho
+Ratatouille
+Cabbage
+Poke
+Bratwurst
+Pulled Pork
+Brussels Sprouts
+Breadsticks
+Lasagna
+Clams
+Duck
+Veal
+Tofu
+Mushrooms
+Garden Vegetables
+Squash
+Mozzarella Sticks
+Cereal
+Ice Cream
+Water
+Buffalo
+Rabbit
+Chicken Wings
+Beef Tongue
+Pork Belly
+Chicken Nuggets
+Oxtail
+Carrots
+Baked Potato
+Mashed Potatoes
+Sweet Potato
+French Fries
+Tomatoes
+Lobster
+Crab
+Sea Urchin
+Eel
+Fugu
+Mixed Seafood
+Eggplant
+Creme
+Spam
+Wumpa Fruit
+Flank Steak
+Bulgogi
+Kimchi
